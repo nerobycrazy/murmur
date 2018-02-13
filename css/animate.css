@@ -27,19 +27,23 @@
    -webkit-animation-delay: 10s;
  }
 .hh5 {
-  -webkit-animation-delay: 12s;
+  -webkit-animation-delay: 14s;
 }
 .hh6 {
-  -webkit-animation-delay: 15s;
-}
-.hh7 {
   -webkit-animation-delay: 17s;
 }
-.hh8 {
+.hh7 {
   -webkit-animation-delay: 20s;
 }
+.hh8 {
+  -webkit-animation-delay: 23s;
+}
 .hh9 {
-  -webkit-animation-delay: 22s;
+  -webkit-animation-delay: 26s;
+}
+
+.hh10{
+  -webkit-animation-delay: 30s;
 }
 
 
